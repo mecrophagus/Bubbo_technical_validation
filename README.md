@@ -1,5 +1,5 @@
 # PRUEBA TECNICA BUBBO WEB
-## Autor: Aitor Iriarte
+##
 
 ## INSTALACIÓN DEL FRONTEND
 
